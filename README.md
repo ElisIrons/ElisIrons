@@ -2,9 +2,9 @@
 
 Iniciante no mundo da programação​ :woman_technologist:
 
-Atualmente estou fazendo o Santander Bootcamp | Fullstack Developer :rocket:
+Atualmente estou fazendo o Santander Bootcamp | Fullstack Developer na Digital Innovation One 🚀
 
-Estudante do Curso Técnico em Informática no Instituto Federal do Sul de Minas :book:
+Estudante do Curso Técnico em Informática EAD no Instituto Federal do Sul de Minas :book:
 
 <!---
 ElisIrons/ElisIrons is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
