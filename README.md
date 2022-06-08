@@ -1,8 +1,8 @@
 <h2> Olá, me chamo Elis! :wave: </h2>
 
-Iniciante no mundo da programação​ :woman_technology:
+:woman_technologist: Iniciante no mundo da programação
 
-Estudante do Curso Técnico em Informática EAD no Instituto Federal do Sul de Minas :book:
+:book: Estudante do Curso Técnico em Informática EAD no Instituto Federal do Sul de Minas 
 
 <!---
 ElisIrons/ElisIrons is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
