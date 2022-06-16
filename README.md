@@ -2,9 +2,9 @@
 
 :woman_technologist: Iniciante no mundo da programação
 
-:book: Estudante do Curso Técnico em Informática EAD no Instituto Federal do Sul de Minas 
+:book: Curso Técnico em Informática EAD no Instituto Federal do Sul de Minas
 
-:woman_student: Inscrita no Curso de Análise e Desenvolvimento de Sistemas EAD na Estácio
+:woman_student: Em formação no Curso de Análise e Desenvolvimento de Sistemas EAD na Estácio
 
 <!---
 ElisIrons/ElisIrons is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
