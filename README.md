@@ -1,6 +1,6 @@
 <h2> Olá, me chamo Elis! :wave: </h2>
 
-:woman_technologist: Foco back-end
+:woman_technologist: Programação 
 
 :woman_student: Curso Técnico em Informática EAD no Instituto Federal do Sul de Minas
 
