@@ -4,7 +4,7 @@
 
 :woman_technologist: Em formação no Curso de Análise e Desenvolvimento de Sistemas EAD na Estácio
 
-:rocket: Foco em Desenvolvimento Back-end
+:rocket: Foco em Desevolvimento Full Stack
 
 ---
 ## Conhecimento Básico :book:
