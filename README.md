@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/elis-rodrigues-cardoso-46566413a/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 ---
 
-## 💻Tecnologias e Ferramentas que temos neste humilde repositório:
+## 💻Tecnologias e Ferramentas:
 
 <div style="display: flex; justify-content: flex-start; align-items: center;">
     <a href="https://skillicons.dev" target="_blank">
