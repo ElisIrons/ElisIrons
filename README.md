@@ -20,7 +20,7 @@
 <div style="display: flex; justify-content: flex-start; align-items: center;">
     <a href="https://skillicons.dev" target="_blank">
       
-  ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,php,postgresql,bootstrap,react&perline=3)
+  ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,php,postgresql,bootstrap,react&perline=)
 
 </div>
 
