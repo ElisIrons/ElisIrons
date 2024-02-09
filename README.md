@@ -4,7 +4,7 @@
 
 👩‍💻 Em formação no Curso de Análise e Desenvolvimento de Sistemas EAD na Estácio
 
-📚 No momento estou estudando Front End em React.JS
+📚 Estudante de Java no ElasTech 2024
 
 🚀 Foco em Desenvolvimento Full Stack
 
