@@ -6,8 +6,6 @@
 
 📚 Estudante de Java no ElasTech 2024
 
-🚀 Foco em Desenvolvimento Full Stack
-
 
 <img src="https://github.com/ElisIrons/ElisIrons/assets/86434261/fcf49b36-96da-4b5c-afdf-a12070b93349" alt="My Skills" width="400" height="250">
 
