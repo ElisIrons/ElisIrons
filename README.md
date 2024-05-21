@@ -2,9 +2,11 @@
 
 👩‍🎓 Formada no Curso Técnico em Informática EAD no Instituto Federal do Sul de Minas
 
+👩‍🎓 Formada no Bootcamp ElasTech 2024 com foco em Java do PagBank em parceria com a SoulCode
+
 👩‍💻 Em formação no Curso de Análise e Desenvolvimento de Sistemas EAD na Estácio
 
-📚 Estudante de Java no ElasTech 2024
+📚 Estudando Java com Spring Boot 
 
 
 <img src="https://github.com/ElisIrons/ElisIrons/assets/86434261/fcf49b36-96da-4b5c-afdf-a12070b93349" alt="My Skills" width="400" height="250">
