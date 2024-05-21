@@ -8,8 +8,7 @@
 
 📚 Estudando Java com Spring Boot 
 
-
-<img src="https://github.com/ElisIrons/ElisIrons/assets/86434261/fcf49b36-96da-4b5c-afdf-a12070b93349" alt="My Skills" width="400" height="250">
+<img src="https://github.com/ElisIrons/ElisIrons/assets/86434261/a7b6c702-89f9-47ba-bb71-792db427f5f1" alt="My Skills" width="400" height="350" />
 
 <a href="https://www.linkedin.com/in/elis-rodrigues-cardoso-46566413a/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 ---
