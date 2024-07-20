@@ -4,9 +4,11 @@
 
 👩‍🎓 Formada no Bootcamp ElasTech 2024 com foco em Java do PagBank em parceria com a SoulCode
 
+👩‍🎓 Formada no Programa ONE da Oracle com a Alura com foco em Java Spring
+
 👩‍💻 Em formação no Curso de Análise e Desenvolvimento de Sistemas EAD na Estácio
 
-📚 Estudando Java com Spring Boot 
+📚 Estudando testes
 
 <p align="center">
 <img src="https://github.com/ElisIrons/ElisIrons/assets/86434261/a7b6c702-89f9-47ba-bb71-792db427f5f1" alt="My Skills" width="400" height="350" />
