@@ -11,7 +11,7 @@
     
     
      Hello, my name is Elis! 👋
-     👩‍🎓 Graduate of the Technical Course in IT (EAD) at the Federal Institute of Southern Minas Gerais
+     👩‍🎓 Graduate of the Technical Course in IT (EAD) at the IFSul de Minas
       👩‍🎓 Graduate of the ElasTech 2024 Bootcamp focused on Java, offered by PagBank in partnership with SoulCode
       👩‍🎓 Graduate of the ONE Program by Oracle in partnership with Alura, focused on Java Spring
       👩‍💻 Currently studying Systems Analysis and Development (EAD) at Estácio
