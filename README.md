@@ -2,19 +2,19 @@
   <div style="display: flex; justify-content: center; gap: 20px;">
     <div>
       <h2>Olá, me chamo Elis! 👋</h2>
+      <p>👩‍🎓 Formada em Análise e Desenvolvimento de Sistemas EAD na Estácio</p>
       <p>👩‍🎓 Formada no Curso Técnico em Informática EAD no Instituto Federal do Sul de Minas</p>
       <p>👩‍🎓 Formada no Bootcamp ElasTech 2024 com foco em Java do PagBank em parceria com a SoulCode</p>
       <p>👩‍🎓 Formada no Programa ONE da Oracle com a Alura com foco em Java Spring</p>
-      <p>👩‍💻 Em formação no Curso de Análise e Desenvolvimento de Sistemas EAD na Estácio</p>
       <p>📚 Estudando testes unitários e automatizados</p>
     </div>
     
     
      Hello, my name is Elis! 👋
-     👩‍🎓 Graduate of the Technical Course in IT (EAD) at the IFSul de Minas
+      👩‍🎓 Graduate of the Systems Analysis and Development (EAD) at Estácio
+      👩‍🎓 Graduate of the Technical Course in IT (EAD) at the IFSul de Minas
       👩‍🎓 Graduate of the ElasTech 2024 Bootcamp focused on Java, offered by PagBank in partnership with SoulCode
       👩‍🎓 Graduate of the ONE Program by Oracle in partnership with Alura, focused on Java Spring
-      👩‍💻 Currently studying Systems Analysis and Development (EAD) at Estácio
      📚 Currently learning unit and automated testing
     
   </div>
